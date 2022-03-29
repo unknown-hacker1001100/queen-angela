@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/wvTMw09.jpg>
+<img src=https://camo.githubusercontent.com/23ffe3956393e89999cd2f79bad4ff607dfdc08beca09bdbc5098e77a85f4dd0/68747470733a2f2f666f6e746d656d652e636f6d2f7065726d616c696e6b2f3232303131382f66336335353562633834343636396332383238333832643264383261393166382e706e67>
 </p>
   <p align="center">
 <a href="https://github.com/zim-bot"><title="Author"img src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
