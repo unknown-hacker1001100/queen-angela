@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://imgur.com/gallery/4isuCAJ>
+<img src=https://imgur.com/gallery/3lgsqB8>
 </p>
   <p align="center">
 <a href="https://github.com/zim-bot"><title="Author"img src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
