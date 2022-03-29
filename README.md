@@ -1,7 +1,7 @@
 ## WATCH VIDEO HOW TO DEPLOY CLICK ON YOUTUBE ICON
 
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/QU9ffSMTLoY)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UCRJMD8hfOU4RWhgEe-vojXQ)
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="https://imgur.com/gallery/4isuCAJ" alt="ben-10-font" border="0"></a>
+<img src="https://fontmeme.com/temporary/7233ed297a186a2a4e581bf690784859.png" alt="ben-10-font" border="0"></a>
 
 
 
@@ -19,7 +19,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://camo.githubusercontent.com/23ffe3956393e89999cd2f79bad4ff607dfdc08beca09bdbc5098e77a85f4dd0/68747470733a2f2f666f6e746d656d652e636f6d2f7065726d616c696e6b2f3232303131382f66336335353562633834343636396332383238333832643264383261393166382e706e67>
+<img src=https://imgur.com/gallery/4isuCAJ>
 </p>
   <p align="center">
 <a href="https://github.com/zim-bot"><title="Author"img src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
